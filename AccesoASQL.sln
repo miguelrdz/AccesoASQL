@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccesoASQL", "AccesoASQL.csproj", "{A690B1CB-5D29-4397-8C6A-60545A6ECB79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccesoASQLTests", "..\AccesoASQLTests\AccesoASQLTests.csproj", "{47E63212-F139-4ED5-AEB1-321EC7BF8CB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A690B1CB-5D29-4397-8C6A-60545A6ECB79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A690B1CB-5D29-4397-8C6A-60545A6ECB79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A690B1CB-5D29-4397-8C6A-60545A6ECB79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A690B1CB-5D29-4397-8C6A-60545A6ECB79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47E63212-F139-4ED5-AEB1-321EC7BF8CB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47E63212-F139-4ED5-AEB1-321EC7BF8CB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47E63212-F139-4ED5-AEB1-321EC7BF8CB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47E63212-F139-4ED5-AEB1-321EC7BF8CB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6101B51-D1DD-49CB-A59F-E7D3D08D64AA}
+	EndGlobalSection
+EndGlobal
